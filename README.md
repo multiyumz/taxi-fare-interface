@@ -22,11 +22,6 @@ Update the `script.js` to get prediction from your own API hosted on GCP (make s
 const taxiFareApiUrl = 'https://YOUR_API_URL/predict';
 ```
 
-Hint: alternatively, you may use this Le Wagon Prediction API if you do not have one in production:
-
-`https://taxifare.lewagon.ai/predict`
-
-_Note: the following setup steps are optional as you can use Mapbox credentials given by Le Wagon_
 
 ### MapBox Maps and Directions APIs (optional)
 
@@ -63,4 +58,4 @@ Deploy your app on GitHub:
 git push origin gh-pages
 ```
 
-Your app will be visible shortly at `https://YOUR_GITHUB_NICKNAME.github.io/taxi-fare-interface`.
+App is visible at `https://multiyumz.github.io/taxi-fare-interface`.
